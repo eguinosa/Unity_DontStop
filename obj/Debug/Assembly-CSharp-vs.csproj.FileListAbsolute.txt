@@ -1,0 +1,14 @@
+D:\Universidad\Game Developer\DontStop\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Universidad\Game Developer\DontStop\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Universidad\Game Developer\DontStop\Temp\bin\Debug\UnityEditor.dll
+D:\Universidad\Game Developer\DontStop\Temp\bin\Debug\UnityEngine.dll
+D:\Universidad\Game Developer\DontStop\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Universidad\Game Developer\DontStop\Temp\bin\Debug\Mono.Cecil.dll
+D:\Universidad\Game Developer\DontStop\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Universidad\Game Developer\DontStop\Temp\bin\Debug\Unity.DataContract.dll
+D:\Universidad\Game Developer\DontStop\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Universidad\Game Developer\DontStop\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Universidad\Game Developer\DontStop\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\Universidad\Game Developer\DontStop\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+D:\Universidad\Game Developer\DontStop\obj\Debug\Assembly-CSharp.dll
+D:\Universidad\Game Developer\DontStop\obj\Debug\Assembly-CSharp.pdb

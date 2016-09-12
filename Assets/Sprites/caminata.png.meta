@@ -1,0 +1,319 @@
+fileFormatVersion: 2
+guid: f36f8a26a6ec2a448bcb6833ce77e5e7
+timeCreated: 1451786016
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: caminata_0
+    21300002: caminata_1
+    21300004: caminata_2
+    21300006: caminata_3
+    21300008: caminata_4
+    21300010: caminata_5
+    21300012: caminata_6
+    21300014: caminata_7
+    21300016: caminata_8
+    21300018: caminata_9
+    21300020: caminata_10
+    21300022: caminata_11
+    21300024: caminata_12
+    21300026: caminata_13
+    21300028: caminata_14
+    21300030: caminata_15
+    21300032: caminata_16
+    21300034: caminata_17
+    21300036: caminata_18
+    21300038: caminata_19
+    21300040: caminata_20
+    21300042: caminata_21
+    21300044: caminata_22
+    21300046: caminata_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 70
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: caminata_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 490
+        width: 149
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caminata_1
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 490
+        width: 149
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caminata_2
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 490
+        width: 149
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caminata_3
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 490
+        width: 149
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caminata_4
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 490
+        width: 149
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caminata_5
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 490
+        width: 149
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caminata_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 149
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caminata_7
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 340
+        width: 149
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caminata_8
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 340
+        width: 149
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caminata_9
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 340
+        width: 149
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caminata_10
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 340
+        width: 149
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caminata_11
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 340
+        width: 149
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caminata_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 149
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caminata_13
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 190
+        width: 149
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caminata_14
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 190
+        width: 149
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caminata_15
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 190
+        width: 149
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caminata_16
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 190
+        width: 149
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caminata_17
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 190
+        width: 149
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caminata_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 149
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caminata_19
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 40
+        width: 149
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caminata_20
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 40
+        width: 149
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caminata_21
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 40
+        width: 149
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caminata_22
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 40
+        width: 149
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caminata_23
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 40
+        width: 149
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
